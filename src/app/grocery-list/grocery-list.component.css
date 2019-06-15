@@ -1,0 +1,42 @@
+
+.card {
+  width: 50%;
+}
+
+ 
+  .full-width {
+    width: 50%;
+  }
+  .button-row {
+    margin-right: 8px;
+    margin-top: 10px;
+    
+  }
+  .spacer {
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+
+  .list {
+      width: 100%;
+      border-color:  rgb(241, 240, 240);
+  }
+
+  .heading {
+      text-align: center;
+  }
+  .strike{
+    text-decoration:line-through;
+    text-decoration-color: red; 
+}
+
+.icon-border {
+    border-color: grey;
+    border-width: 0.5px;
+    background-color: white;
+}
+
+.form-field {
+  font-size: 14px;
+}
+

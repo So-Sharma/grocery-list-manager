@@ -1,16 +1,10 @@
-
-.card {
-  width: 50%;
-}
-
  
   .full-width {
-    width: 50%;
+    width: 20%;
   }
+
   .button-row {
-    margin-right: 8px;
-    margin-top: 10px;
-    
+    margin-top: 4px;
   }
   .spacer {
     padding-top: 30px;
@@ -18,7 +12,7 @@
   }
 
   .list {
-      width: 100%;
+      width: 95%;
       border-color:  rgb(241, 240, 240);
   }
 
@@ -39,4 +33,17 @@
 .form-field {
   font-size: 14px;
 }
+
+.button-details {
+  background-color: rgb(15, 160, 71);
+  color: white;
+  height: 47px;
+}
+
+.list-button-details {
+  color: rgb(15, 160, 71);
+  text-align: right;
+}
+
+
 
